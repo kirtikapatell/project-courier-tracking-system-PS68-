@@ -19,7 +19,7 @@ Technologies Used
 
 - Programming Language: Python 3
 - Platform: Python Console / Terminal
-- Data Structures: Dictionaries and Lists
+- Data Structures: Dictionaries , list ,function, search
 - Module: copy
 
 Main Features
@@ -42,7 +42,7 @@ How to Run
 3. Open the project folder in a terminal.
 4. Run the following command:
 
-python courier_tracking_system.py
+01courier_tracking_system.py
 
 5. Select an option from the displayed menu.
 
@@ -57,8 +57,9 @@ The project includes four test scenarios covering:
 
 Repository Contents
 
-- "courier_tracking_system.py" – Python source code.
+- "01courier_tracking_system.py" – Python source code.
 - "Courier_Tracking_System_Documentation.pdf" – Project documentation.
+- 'courier tracking systemppt.pptx- presentation ppt
 - "README.md" – Project overview and instructions.
 
 Conclusion
@@ -66,3 +67,4 @@ Conclusion
 This project demonstrates the practical use of Python fundamentals, including functions, dictionaries, lists, loops, conditional statements statements and searching.
 
 Guided By: Asutosh Sir
+submitted by: Kirtika patel
