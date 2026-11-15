@@ -1,2 +1,68 @@
-# project-courier-tracking-system-PS68-
-A Python-based Courier Tracking System that allows users to book parcels, update delivery statuses, and track parcels using unique tracking IDs. It stores parcel details in dictionaries and maintains delivery status history using lists. The system supports booking, tracking, status updates, and validation of parcel records.
+Courier Tracking System
+
+Problem Statement No.: 68
+
+Project Overview
+
+The Courier Tracking System is a menu-driven application developed using Python 3. It helps users book parcels, track delivery progress, update parcel status, and search parcels by receiver name.
+
+Objectives
+
+- Book parcels with sender, receiver and destination details.
+- Generate unique tracking IDs automatically.
+- Update parcel delivery status in a fixed sequence.
+- Maintain complete parcel status history.
+- Track parcels using tracking IDs.
+- Search parcels by receiver name.
+
+Technologies Used
+
+- Programming Language: Python 3
+- Platform: Python Console / Terminal
+- Data Structures: Dictionaries and Lists
+- Module: copy
+
+Main Features
+
+1. Book Parcel
+2. Update Parcel Status
+3. Track Parcel
+4. Search by Receiver
+5. Run Test Cases
+6. Exit
+
+Parcel Status Flow
+
+Booked → Picked Up → In Transit → Out for Delivery → Delivered
+
+How to Run
+
+1. Install Python 3.
+2. Download or clone this repository.
+3. Open the project folder in a terminal.
+4. Run the following command:
+
+python courier_tracking_system.py
+
+5. Select an option from the displayed menu.
+
+Testing
+
+The project includes four test scenarios covering:
+
+- Normal parcel booking.
+- Status update.
+- Invalid tracking ID and delivered parcel validation.
+- Another valid status update and parcel tracking.
+
+Repository Contents
+
+- "courier_tracking_system.py" – Python source code.
+- "Courier_Tracking_System_Documentation.pdf" – Project documentation.
+- "README.md" – Project overview and instructions.
+
+Conclusion
+
+This project demonstrates the practical use of Python fundamentals, including functions, dictionaries, lists, loops, conditional statements statements and searching.
+
+Guided By: Asutosh Sir
